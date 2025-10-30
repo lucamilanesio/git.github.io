@@ -58,16 +58,6 @@ This edition covers what happened during the months of September and October 202
   as well as [notes broken down by topic](https://lore.kernel.org/git/aOQV6iM49QDhcC+C@nand.local/#r)
   are avaialble.
 
-* [Git Mini Summit 2025](https://lore.kernel.org/git/aGwHt9HCd86hVuKh@pks.im/)
-
-  On August 28 in Amsterdam, a [Git Mini Summit](https://lore.kernel.org/git/aGwHt9HCd86hVuKh@pks.im/)
-  happened as
-  [a co-hosted event of the Open Source Summit Europe](https://osseu2025.sched.com/event/28R2Q/git-mini-summit-additional-fee-pre-registration-required),
-  sponsored by GerritForge, GitButler, GitLab, and Google.
-  The [schedule](https://drive.google.com/file/d/1vacimnS9NUTcYUsRe8100El8Hdl_C7GD/view)
-  and [session records](https://blog.gitbutler.com/git-mini-summit-2025)
-  are available.
-
 <!---
 ### Reviews
 -->
@@ -141,15 +131,16 @@ __Various__
 
 __Light reading__
 
-<!---
 __Easy watching__
--->
+
++ [Gerrit User Summit 2025, featuring also GitButler and Jujutsu](https://www.youtube.com/playlist?list=PLySCWiWz9cNuiJK2Uy3foHGvkxL3fBLUC) by Luca Milanesio on GerritForge's YouTube channel.
 
 __Git tools and sites__
 
 
 ## Releases
 
++ Gerrit [3.13.0-rc4](https://www.gerritcodereview.com/3.13.html)
 + Git [2.51.2](https://lore.kernel.org/git/xmqqo6psjq2n.fsf@gitster.g/),
 [2.51.1](https://lore.kernel.org/git/xmqqa51suhh5.fsf@gitster.g/)
 + Git for Windows [v2.51.2(1)](https://github.com/git-for-windows/git/releases/tag/v2.51.2.windows.1),
